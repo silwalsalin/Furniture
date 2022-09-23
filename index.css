@@ -1,0 +1,55 @@
+p {
+    color: black;
+    font-size: 15px;
+    
+}
+    .brand{
+        background-color: rgb(112, 34, 34);
+        text-align: center;
+        padding: 11px 87px 30px 62px;
+        margin-left: 60px;
+        margin-top: 30px;
+
+    }
+.brand{
+        float: left;
+    }
+    
+    body {
+        background-color: red;
+    }
+   
+.logo {
+    background-color: green;
+}
+
+    .brand .logo h1{
+        font-size: 30px;
+    }
+    .form{
+        margin-top: 30px;
+        text-align: left;
+        padding-left: 220px;
+    }
+    .name{
+        width: 500px;
+        height: 45px;
+        border-radius: 6px;
+        margin-bottom: 20px;
+        margin-left: 190px;
+        margin-top: 40px;
+    }
+    .contact{
+        width: 500px;
+        height: 45px;
+        border-radius: 6px;
+        margin-left: 190px;
+        margin-bottom: 20px;
+
+    }
+    .email{
+        width: 500px;
+        height: 45px;
+        border-radius: 6px;
+        margin-left: 190px;
+    }
